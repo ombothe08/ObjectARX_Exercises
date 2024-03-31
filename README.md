@@ -1,4 +1,4 @@
-# ObjectARx_Assignments 
+# ObjectARX_Assignments 
 ## Overview
  
 This repository is dedicated to various ObjectARX practice assignments, providing a collection of 12 different projects that showcase the application of ObjectARX in AutoCAD development. Each assignment within this repository focuses on a specific aspect of ObjectARX programming, offering hands-on experience and practical insights.
@@ -50,7 +50,7 @@ This repository is dedicated to various ObjectARX practice assignments, providin
 1. **Clone the Repository:**
    - Clone this repository to your local machine using the following command:
      ```
-     git clone https://github.com/RamCCTech/ObjectARX_Exercises.git
+     https://github.com/ombothe08/ObjectARX_Exercises.git
      ```
  
 2. **Navigate to Assignment Directories:**
